@@ -4,9 +4,11 @@ I am **Anish Pradhan** working as **Software Engineer @ Ensemble Matrix**. I am 
 
 Vist my **[Portfolio](https://anish-pradhan.com.np)** website.
 
-### 📫 Reach me at 
+- 🔭 I’m currently working on Python, Django, Selenium, ReactJS, Redux, Docker, Nginx
+- 🌱 I’m currently learning Next.js, TypeScript
+- ⚡ Currently Working at Ensemble Matrix. 
+- 💬 Ask me about **Web Development**.
+
+### 📫 Reach me at: 
 [![Linkedin: Anish](https://img.shields.io/badge/-Anish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anishpdhn/)](https://www.linkedin.com/in/anishpdhn/)
 [![GitHub Anish](https://img.shields.io/github/followers/anishpradhan?label=follow&style=social)](https://github.com/anishpradhan)
-
-- 🔭 I’m currently working on Python, Django, Selenium, ReactJS, Redux, Docker, Nginx
-- 🌱 I’m currently learning Next.js, TypeScript 
