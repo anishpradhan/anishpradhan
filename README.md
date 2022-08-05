@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anishpradhan/anishpradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am **Anish Pradhan** working as **Software Engineer @ Ensemble Matrix**. I am a **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Python, Django, Flask, React JS, Redux, PostgreSQL, MongoDB, RESTfull API’s, Docker, Nginx.** Strong IT professional with a Bachelor of Computer Science and Information Technology (BSc.CSIT) affiliated to Tribhuwan University.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
