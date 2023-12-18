@@ -4,9 +4,9 @@ I am **Anish Pradhan** working as **Software Engineer @ Ensemble Matrix**. I am 
 
 Vist my **[Portfolio](https://anish-pradhan.com.np)** website.
 
-- 🔭 I’m currently working on Python, Django, Selenium, ReactJS, Redux, Docker, Nginx
-- 🌱 I’m currently learning Next.js, TypeScript
-- ⚡ Currently Working at Ensemble Matrix. 
+- 🔭 I’m currently working on Python, Django, Selenium, ReactJS, NextJS, Redux, Docker, Nginx, Azure
+- 🌱 I’m currently learning React Native.
+- ⚡ Currently Working at Mayo Clinic US. 
 - 💬 Ask me about **Web Development**.
 
 ### 📫 Reach me at: 
